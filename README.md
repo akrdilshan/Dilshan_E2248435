@@ -67,7 +67,7 @@ I'm Ravishka Dilshan from Embilipitiya. I'm an Undergraduate student at the Univ
         <p>
             Welcome to my profile! Here is a glimpse of my journey through images:
         </p>
-        <img src="D:\persional details\01+ copy copy.png" alt="Image 1" width="300" hight="300" >
+        <img src="D:\persional details\01+ copy copy.png" alt="D:\persional details\01+ copy copy.png" width="300" hight="300" >
         
 
         <h2>Contact Details</h2>
